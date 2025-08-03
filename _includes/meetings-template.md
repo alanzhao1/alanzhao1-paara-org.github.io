@@ -14,7 +14,7 @@
 
 The Palo Alto Amateur Radio Association meets on the 1st Friday of the month at 7:00 pm (19:00 J) (except when the first Friday lands on a holiday and typically moved to the 2nd Friday of the month).
 
-* **Location**: Room H6, Cubberley Community Center 4000 Middflefield Road, Palo Alto, CA 94303
+* **Location**: Room H6, Cubberley Community Center 4000 Middlefield Road, Palo Alto, CA 94303
 * **Telephone**: (650) 329-2418
 
 ![cubberley-600.jpg](/meetings/cubberley-600.jpg)
@@ -40,6 +40,8 @@ Around 2021 (during the COVID pandemic), we started recording our monthly presen
 
 ### 2025
 
+* [202509](/meetings/2025/202509.html)  **To be announced** : `To be announced`
+* [202508](/meetings/2025/202508.html)  **Jacob Boxerman (KE2CZX)** : `Amateur Radio at Columbia University - History to Present Day`
 * [202507](/meetings/2025/202507.html)  **Ben Glick, KN6UBF** : `ToADS HF: A Layer Cake of Protocols That Nobody Ordered`
 * [202506](/meetings/2025/202506.html)  **Richard Dillman (W6AWO)** : `The Legacy of Trans-Pacific Radio` (<mark>with video</mark>)
 * [202505](/meetings/2025/202505.html)  **Carlos Felix, K9OL** : `The software defined radio and why it belongs in your shack` (<mark>with video</mark>)
