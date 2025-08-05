@@ -14,7 +14,7 @@ For this event you will pay online at <uss-hornet.org>, or when you arrive at th
 
 The USS Hornet is located at `707 W Hornet Ave, Alameda`.  Specifically, it is berthed at Pier 3 on the former Naval Air Station Alameda.  For directions click the **Plan Your Visit** tab on the USS Hornet website and then click **Getting to the Museum**.
 
-To pay for your General Admission go to the USS Hornet’s website and click on the `Plan Your Trip` tab and then click on `Ticket Information`.  Here you will see a list of all the different price options.  `Click on Purchase your ticket here`.  You will be presented with a calendar.  Click on August 23rd.  The word **RESERVE** will appear in red.  Click on that and then follow the prompts to complete the admission process.  Your admission is now placed in your cart.  If you will not be purchasing any of the additional tour options you can simply go to your cart and complete your purchase.
+To pay for your General Admission go to the [USS Hornet’s website](https://uss-hornet.org/){:target="_blank"} and click on the `Plan Your Trip` tab and then click on `Ticket Information`.  Here you will see a list of all the different price options. Click on `Purchase your ticket here`.  You will be presented with a calendar.  Click on August 23rd.  The word **RESERVE** will appear in red.  Click on that and then follow the prompts to complete the admission process.  Your admission is now placed in your cart.  If you will not be purchasing any of the additional tour options you can simply go to your cart and complete your purchase.
 
 ### Tours
 
