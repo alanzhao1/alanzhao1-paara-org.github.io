@@ -8,15 +8,14 @@ layout: default
 
 ## PAARA In The Park
 
-Please join us for a new PAARA In The Park event, this time in Rengstorff Park, Mountain View on September 13, 2025!
+Please join us for a new [PAARA In The Park](/events/20250913.html) event, this time in [Rengstorff Park, Mountain View](https://maps.app.goo.gl/Wg5M4pEWNpvsFmik6){:target="_blank"} on **September 13, 2025**!
 
 Loads of fun, people of all ages to socialize with, lots of hams there to answer questions, etc. Come sit and schmooze, or try getting on the air, bring your own radio, find the hidden transmitters, try morse code or send memes on SSTV.
 
-Free lunch and drinks privided by the club!
+* Free lunch and drinks privided by the club!
+* Optionally, you can sign up for the soldering activity (details below, registration and payment mandatory).
 
-Optionally, you can sign up for the soldering activity (details below, registration and payment mandatory).
-
-Visit the [event page](/events/20250918.html) for more details.
+Visit the [event page](/events/20250913.html) for more details.
 
 ---
 
