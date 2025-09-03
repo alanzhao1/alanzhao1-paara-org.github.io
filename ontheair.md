@@ -65,3 +65,5 @@ A few of the higher peaks and somewhat accessible in the Bay Area below:
 
 * Logging: [HAMRS](https://hamrs.app/)
 * SOTA: [SOTA Goat for iOS](https://ww1x.radio/sotagoat/)
+* POTA Maps (with SOTA Peaks): <https://potamap.us>
+
