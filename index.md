@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-
 {% include meeting-short.md %}
+{% include zoom-details.md %}
+
+For more information, visit the [meetings page](/meetings.html).
+
+{% include raffle/202510.md %}
 
 ---
 
