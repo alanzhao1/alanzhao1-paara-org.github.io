@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-{% include meeting-short.md %}
-{% include zoom-details.md %}
+{% include meeting-short.md %}{% include zoom-details.md %}
 
 For more information, visit the [meetings page](/meetings.html).
 
