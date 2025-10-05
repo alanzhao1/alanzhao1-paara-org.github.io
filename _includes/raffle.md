@@ -19,7 +19,7 @@
     <tr>
         <td>5th Prize description</td>
         <td>4th Prize description</td>
-        <td>3nd Prize description</td>
+        <td>3rd Prize description</td>
         <td>2nd Prize description</td>
         <td>1st Prize description</td>
     </tr>
