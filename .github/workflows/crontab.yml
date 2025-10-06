@@ -1,7 +1,7 @@
 name: Weekly Team Sync
 on:
   schedule:
-    - cron: 22 00 1-7 * 6
+    - cron: 07 00 1-7 * *
 
 jobs:
   create_issue:
@@ -12,19 +12,21 @@ jobs:
     steps:
       - name: Create issue
         run: |
-          new_issue_url=$(gh issue create \
-            --title "$TITLE" \
-            --assignee "$ASSIGNEES" \
-            --label "$LABELS" \
-            --body "$BODY")
-          if [[ $PINNED == true ]]; then
-            gh issue pin "$new_issue_url"
+          if [ "$(date +%u)" = "1" ]; then
+            new_issue_url=$(gh issue create \
+              --title "$TITLE" \
+              --assignee "$ASSIGNEES" \
+              --label "$LABELS" \
+              --body "$BODY")
+            if [[ $PINNED == true ]]; then
+              gh issue pin "$new_issue_url"
+            fi
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
           TITLE: Rollover website after this month's club meeting
-          ASSIGNEES: alanzhao1,benhg,conniest,kn6yuh,bobridenour,heytaes
+          ASSIGNEES: kn6yuh
           LABELS: monthly-rollover
           BODY: |
 
