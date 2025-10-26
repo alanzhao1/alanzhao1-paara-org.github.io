@@ -54,7 +54,4 @@ If you need to update your personal information, please fill the [membership app
 
 ![membership/nametag-100.jpg](/membership/nametag-100.jpg)
 
-Members interested in obtaining a club badge with their First Name, Callsign, City, and PAARA logo on it can purchase one for $30.00. You can order one at any PAARA meeting or use the form below. Your badge will be ordered and mailed to you. The price includes shipping.
-
-[![membership/btn_cart_LG.gif](/membership/btn_cart_LG.gif)](https://www.paypal.com/ncp/payment/KENQB7NGNEXZ6)
-
+Please visit the dedicated page [here](/badges.html).
