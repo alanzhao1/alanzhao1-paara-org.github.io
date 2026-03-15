@@ -6,6 +6,8 @@ Club members are encouraged to help file Issues for the problems encountered on 
 
 This page acts mainly as a HowTo for other contributors. The old readme is now at [ARCHITECT.md](ARCHITECT.md).
 
+See section at end for the basics of how to add or update pages.
+
 ## How to add a new meeting?
 
 1. Modify the meeting skeleton to add: 
