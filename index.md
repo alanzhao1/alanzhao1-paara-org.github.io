@@ -16,6 +16,11 @@ For more information, visit the [Events](/events.html) page.
 
 ---
 
+**Parachute Mobile** is getting ready to start their next season.  Our first mission will be a commemorative one; **Mission 50**! 
+Contact skydivers who are under canopy overhead!  Consider assisting on the ground crew.   Watch for details at [parachutemobile.org](https://parachutemobile.org)
+
+---
+
 ## Welcome
 
 Welcome to the Palo Alto Amateur Radio Association (PAARA), the friendliest club around.  Established in 1937, PAARA is a premier general interest club located in the San Francisco Bay Area.  Whether you are passionate about DX, contesting, EME, ARES, MARS, microwave, digital modes, or any other aspect of amateur radio, youll find like-minded members here.
