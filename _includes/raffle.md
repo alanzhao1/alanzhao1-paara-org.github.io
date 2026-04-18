@@ -10,18 +10,18 @@
         <th>1st prize</th>
     </tr>
     <tr>
-        <td><img src="/meetings/raffle/2026/20265-5.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20265-4.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20265-3.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20265-2.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20265-1.png" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202605-5.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202605-4.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202605-3.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202605-2.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202605-1.jpeg" alt="image"></td>
     </tr>
     <tr>
-        <td>5th Prize description</td>
-        <td>4th Prize description</td>
-        <td>3rd Prize description</td>
-        <td>2nd Prize description</td>
-        <td>1st Prize description</td>
+        <td>HOTO Laser Measuring Tool,</td>
+        <td>WOLFBOX MF60 Powered Air Duster</td>
+        <td>Wera KK25 Driver Bit Set</td>
+        <td>Ed Fong dual band roll up J-pole antenna</td>
+        <td>Pocket PD is a compact, portable, and open-source USB-C programmable power supply. 3.3v-21v up to 5A.</td>
     </tr>
   </table>
 </details>
