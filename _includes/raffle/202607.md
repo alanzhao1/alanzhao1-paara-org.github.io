@@ -10,18 +10,18 @@
         <th>1st prize</th>
     </tr>
     <tr>
-        <td><img src="/meetings/raffle/2026/20267-5.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20267-4.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20267-3.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20267-2.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/20267-1.png" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202607-5.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202607-4.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202607-3.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202607-2.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202607-1.jpeg" alt="image"></td>
     </tr>
     <tr>
-        <td>5th Prize description</td>
-        <td>4th Prize description</td>
-        <td>3rd Prize description</td>
-        <td>2nd Prize description</td>
-        <td>1st Prize description</td>
+        <td>ORGBRO Label Maker</td>
+        <td>Ed Fong <b>DBJ-2</b> is a portable, roll-up VHF/UHF J-pole antenna.</td>
+        <td>Surecom SW-102 Digital125-525Mhz Power &amp; SWR Meter</td>
+        <td>Retevis Ailunce HA1UV Dual Band Radio</td>
+        <td>Upgraded NanoVNA-F V2 Vector Network Analyzer</td>
     </tr>
   </table>
 </details>
