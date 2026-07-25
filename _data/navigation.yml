@@ -30,5 +30,8 @@
   link: /ontheair.html
 - name: Resources
   link: /resources.html
+- name: Setup Guides
+  link: /setup-guides/
+  active_path: /setup-guides/
 - name: Sponsors
   link: /sponsors.html

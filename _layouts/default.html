@@ -19,7 +19,7 @@
   <body>
     <header>
       <div class="inner">
-	      <img src="/images/bannersub-900.jpg" alt="banner">
+	      <img src="{{ '/images/bannersub-900.jpg' | relative_url }}" alt="banner">
       </div>
     </header>
 
@@ -27,18 +27,27 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <div style="text-align: right; font-size: 12px">
-          <a href="/nets.html">Weekly net</a> every Monday 8:30pm on <b><a href="https://www.fars.k6ya.org/repeaters/n6nfi" target="_blank">N6NFI</a></b> 145.230 MHz (-) 100Hz
+          <a href="{{ '/nets.html' | relative_url }}">Weekly net</a> every Monday 8:30pm on <b><a href="https://www.fars.k6ya.org/repeaters/n6nfi" target="_blank">N6NFI</a></b> 145.230 MHz (-) 100Hz
         </div>
 
         <aside id="sidebar">
           {% for item in site.data.navigation %}
-            {% assign item_link_with_baseurl = item.link | prepend: site.baseurl %}
-            <a class="sidebar{% if page.url == item.link or page.url == item_link_with_baseurl %} current{% endif %}" href="{{ item.link }}">{{ item.name }}</a><br>
+            {% assign item_link_with_baseurl = item.link | relative_url %}
+            {% assign is_current = false %}
+            {% if page.url == item.link or page.url == item_link_with_baseurl %}
+              {% assign is_current = true %}
+            {% endif %}
+            {% if item.active_path %}
+              {% if page.url contains item.active_path %}
+                {% assign is_current = true %}
+              {% endif %}
+            {% endif %}
+            <a class="sidebar{% if is_current %} current{% endif %}" href="{{ item_link_with_baseurl }}">{{ item.name }}</a><br>
           {% endfor %}
           <hr>
           {% for item in site.data.bottomsection %}
-            {% assign item_link_with_baseurl = item.link | prepend: site.baseurl %}
-            <a class="sidebar{% if page.url == item.link or page.url == item_link_with_baseurl %} current{% endif %}" href="{{ item.link }}">{{ item.name }}</a><br>
+            {% assign item_link_with_baseurl = item.link | relative_url %}
+            <a class="sidebar{% if page.url == item.link or page.url == item_link_with_baseurl %} current{% endif %}" href="{{ item_link_with_baseurl }}">{{ item.name }}</a><br>
           {% endfor %}
         </aside>
 
