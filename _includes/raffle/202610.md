@@ -10,18 +10,18 @@
         <th>1st prize</th>
     </tr>
     <tr>
-        <td><img src="/meetings/raffle/2026/202610-5.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/202610-4.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/202610-3.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/202610-2.png" alt="image"></td>
-        <td><img src="/meetings/raffle/2026/202610-1.png" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202610-5.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202610-4.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202610-3.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202610-2.jpeg" alt="image"></td>
+        <td><img src="/meetings/raffle/2026/202610-1.jpeg" alt="image"></td>
     </tr>
     <tr>
-        <td>5th Prize description</td>
-        <td>4th Prize description</td>
-        <td>3rd Prize description</td>
-        <td>2nd Prize description</td>
-        <td>1st Prize description</td>
+        <td>WUBEN G5 Rechargeable EDC Flashlight, 400 Lumens.</td>
+        <td>14-Inch, 17 Pocket Heavy Duty Tool Bag</td>
+        <td>Laptop Power Bank, 20000mAh 65W</td>
+        <td>Solar, Crank, Battery, Emergency 12000mAh Radio</td>
+        <td>40-20-15-10 meters, 100W, End Fed Half Wave Antenna</td>
     </tr>
   </table>
 </details>
