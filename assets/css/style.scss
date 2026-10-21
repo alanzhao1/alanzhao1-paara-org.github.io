@@ -128,7 +128,36 @@
   .mobile-drawer[open] { animation: none; }
 }
 
-/* 1. Explicitly define Light Mode colors first */
+/* Keep embedded videos and calendars within narrow screens. */
+iframe {
+  max-width: 100%;
+}
+
+iframe[src*="youtube.com/embed"] {
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+/* Underline links in running text so they don't rely on color alone
+   (WCAG 1.4.1). Navigation, gallery items and buttons have classes and
+   keep their own styling. */
+#main-content a:not([class]),
+#footer a,
+.weekly-net a {
+  text-decoration: underline;
+}
+
+/* The table of contents is a navigation list, not running text. */
+#main-content #markdown-toc a {
+  text-decoration: none;
+}
+
+/* The theme's #2879d0 is just under 4.5:1 on white; use its hover blue. */
+pre code {
+  color: #2268b2;
+}
+
+/* Notice box. Dark mode colors are in dark.css. */
 .custom-notice {
   background-color: #f4f7f6 !important; /* Forces light gray background */
   border-left: 5px solid #1e6bb8 !important; /* Architect Blue */
@@ -140,17 +169,8 @@
   strong {
     color: #1e6bb8 !important;
   }
-}
 
-/* 2. Switch to Dark Mode only if the system explicitly requests it */
-@media (prefers-color-scheme: dark) {
-  .custom-notice {
-    background-color: #1f292e !important; /* Dark background */
-    border-left-color: #3a86d4 !important; /* Brighter blue for contrast */
-    color: #e2e8f0 !important; /* Light text */
-
-    strong {
-      color: #3a86d4 !important;
-    }
+  a {
+    color: #2268b2;
   }
 }
